@@ -1,5 +1,5 @@
 # prod-support-agent
-set environment variables:
+EXPORT/set environment variables:
 OPENAI_API_KEY=your_openai_api_key
 
 run qapplication 
